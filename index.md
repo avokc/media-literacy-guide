@@ -7,13 +7,13 @@ title: A Media Literacy Guide
 
 Where did you last hear something about a political topic? A TikTok, an Instagram
 reel, or maybe a group chat? For most people, the answer is somewhere on their phone
-and that's what this guide aims to address. The same device we use for entertainment 
-and games is also where we form most of our opinions on the issues of our day.
+and that's what this guide aims to address. The same device you use for entertainment 
+and games is also where you form most of your political opinions.
 The apps between you and the truth weren't built to inform you. They were
 built to keep you scrolling.
 
 This guide is about media literacy: the discipline of reading, watching, and
-scrolling political news without letting the app platform or the media outlet do your
+scrolling political news without letting the platform or the outlet do your
 thinking for you. We'll start by defining what media and media literacy
 actually are and why they matter so much in politics. From there, we'll look
 at the specific ways media influence how people vote, compare how three
@@ -23,58 +23,56 @@ short checklist you can run any political post through before you trust it or pa
 
 ---
 
-## What Is Media, and What Is Media Literacy?
+## What is media and media literacy?
 
-**Media** is just the plural of *medium* — any channel that carries
-information from one person to many. That includes traditional channels like
-television news, newspapers, and talk radio, but for most people our age it
+**Media** is the plural of *medium*, a channel that carries
+information from a source to a consumer. This includes traditional channels like
+network television, newspapers, and talk radio. But for a growing number of people it
 also means TikTok, Instagram, YouTube, podcasts, Discord servers, group
-chats, and news apps. If a message reaches you through some kind of
-technology, it came through a medium.
+chats, and news apps.
 
 **Media literacy** is the ability to access, analyze, evaluate, and even
 create that kind of content with a clear head. A media-literate person
-doesn't just read a headline and react — they ask *who made this*, *why
-they made it*, *what they want me to feel*, and *what they didn't tell me*.
+doesn't just read a headline and react, they ask *who made this*, *why
+did they make it*, *what do they want me to feel*, and *what didn't they tell me*.
 Media literacy isn't about being cynical or assuming everyone is lying. It's
-about being an active reader instead of a passive one.
+about being an active consumer, not a passive one.
 
-### Why It Matters for First-Time Voters
+### Why does it matter for first-time voters?
 
-Almost nobody meets candidates in person. Almost nobody reads bills. What
-voters actually do is form impressions of politics through media — and
-those impressions decide how they vote. That makes the media environment
-itself a kind of invisible ballot: whoever controls what you see has a
-head start on how you'll think.
+Few voters actually meet candidates in person. Very few voters read bills.
+Most of the time, they simply rely on media to cover politics and to help
+them decide how to vote. In this way, the media environment is like an
+invisible ballot: whoever controls what you see has a
+head start on what you'll think.
 
-This is especially true for first-time voters. You're forming opinions on
-issues you've never had to take a position on before, and the platforms you
-use most — social media — are tuned by algorithms to show you content that
-keeps you engaged, not content that's accurate or balanced. Being aware of
-this isn't paranoia. It's the baseline skill required to cast a vote that
-actually reflects what *you* believe, instead of what an algorithm or a
-cable host nudged you toward.
+This is especially true for first-time voters. The platforms you
+use most, primarily social media, are tuned by algorithms to show you content that
+keeps you engaged regardless of whether or not it's accurate or balanced.
+Being aware of this isn't paranoia. It's the baseline skill required
+to cast a vote that actually reflects what *you* believe, instead of what an
+algorithm or a cable host nudged you into believing.
 
 ---
 
 ## How Media Influence Political Behavior
 
-Media influence voters through a handful of well-studied mechanisms. None
-of these are conspiracies — they're just how information works when it's
+Media influence voters through several well-studied mechanisms. None
+of these are conspiracies; they're just how information works when it's
 filtered through people and platforms with their own incentives.
 
 - **Agenda-setting.** Outlets can't tell you *what* to think, but they
   decide what you think *about*. If every channel leads with immigration
-  for a week, immigration becomes the issue voters worry about — even if
+  for a week, immigration becomes the issue voters worry about, even if
   nothing about it actually changed.
 - **Framing.** The same fact can be presented in completely different
-  ways. "Estate tax" sounds reasonable; "death tax" sounds outrageous —
-  same policy. "Tax relief" and "tax cut for the wealthy" describe the
+  ways. "Estate tax" sounds reasonable; "death tax" sounds outrageous.
+  Same policy. "Tax relief" and "tax cut for the wealthy" describe the
   same bill. Framing decides whether a reader's first reaction is
   approval or anger.
 - **Selection and omission.** Every story leaves things out. Which expert
   gets quoted, which photo is chosen, which statistic appears in the lead
-  paragraph — all of those decisions shape the takeaway. What's missing
+  paragraph: all of those decisions shape the takeaway. What's missing
   is often as important as what's there.
 - **Repetition.** When the same talking point shows up across many
   outlets and feeds, it starts to feel true regardless of whether it is.
@@ -82,8 +80,8 @@ filtered through people and platforms with their own incentives.
 - **Emotional appeals.** Outrage, fear, and disgust travel faster than
   calm analysis. Headlines and clips are engineered to provoke a reaction
   because reactions drive clicks, shares, and ad revenue.
-- **Algorithmic feeds.** On social media, you don't choose what you see —
-  a recommendation system does, based on what keeps you scrolling. Over
+- **Algorithmic feeds.** On social media, you don't choose what you see.
+  A recommendation system does, based on what keeps you scrolling. Over
   time this creates *filter bubbles*: information environments where
   everyone seems to agree with you and the other side looks crazier than
   it actually is.
@@ -102,7 +100,7 @@ event from three outlets and watch the story shift.
 Consider the **Los Angeles ICE protests of June 2025**. After large-scale
 immigration raids in downtown LA, thousands of people took to the streets.
 The protests were overwhelmingly peaceful, but in some areas there was real
-property damage — burned vehicles, broken storefronts, clashes with police.
+property damage: burned vehicles, broken storefronts, and clashes with police.
 The Trump administration deployed the California National Guard over the
 governor's objections. Three outlets covered the exact same week. Here's
 how the story shifted depending on where you read it.
@@ -120,7 +118,7 @@ fault.
 
 The point isn't that any of these outlets is *lying*. Every article above
 describes events that actually happened. The point is that by choosing
-which words to use — *riots* vs. *clash* vs. *protests* — which facts to
+which words to use (*riots* vs. *clash* vs. *protests*), which facts to
 lead with, and which images to show on top of the page, three outlets
 covering the same week left readers with three almost unrecognizable
 versions of the same story. A reader who watched only Fox came away
@@ -128,7 +126,7 @@ believing LA was burning. A reader who watched only CNN came away believing
 the real story was federal overreach against peaceful protesters. AP was
 closest to neutral, but a reader who only saw the AP version might come
 away unsure why any of it mattered at all. The lesson: reading one source
-on a political story is reading one author's argument about that story —
+on a political story is reading one author's argument about that story,
 not the story itself.
 
 ---
@@ -137,14 +135,14 @@ not the story itself.
 
 Outlets aren't the only source of bias. The *medium itself* shapes what can
 be said and how. A 30-second TV clip, a three-hour podcast, and a TikTok
-all carry information differently — and each carries its own pressures.
+all carry information differently, and each carries its own pressures.
 
 ### Television News
 
 TV is dominated by visuals and time. A complicated bill has to fit into a
 ninety-second segment, which forces oversimplification. The "breaking
 news" format manufactures urgency even on slow news days. Cable panels
-are built around argument because conflict holds viewers — so reasonable
+are built around argument because conflict holds viewers, so reasonable
 middle-ground takes get edited out in favor of two people shouting past
 each other. Watch the chyron (the text bar at the bottom of the screen):
 it often editorializes a story before the anchor even speaks.
@@ -154,7 +152,7 @@ it often editorializes a story before the anchor even speaks.
 Talk radio and most political podcasts revolve around a host's
 personality. That means you might hear one perspective for two or three
 hours straight, with no opposing voice in the room. Because there's no
-visual, tone of voice does a lot of persuasive work — sarcasm, sighs, and
+visual, tone of voice does a lot of persuasive work. Sarcasm, sighs, and
 mocking impressions can do more to discredit an idea than any argument.
 Long-form formats can be genuinely informative, but the same length that
 allows depth can also normalize fringe ideas by giving them hours of
@@ -162,7 +160,7 @@ uninterrupted airtime.
 
 ### Online Articles and News Websites
 
-Headlines online are written for clicks, not accuracy — they have to win
+Headlines online are written for clicks, not accuracy. They have to win
 your attention against every other tab. Many sites blur the line between
 reporting and opinion: a hard news piece and a clearly slanted column can
 sit on the same homepage with similar formatting. Sponsored content and
@@ -174,7 +172,7 @@ piece itself.
 
 Social media is the medium where most first-time voters actually live, and
 it has the most aggressive built-in biases. Algorithms reward engagement,
-which usually means outrage. Posts are stripped of context — a five-second
+which usually means outrage. Posts are stripped of context. A five-second
 clip of a politician can travel further than the full speech it came from.
 Anyone can publish, so credentials and sourcing are invisible by default.
 Influencers blur the line between entertainment and reporting, sometimes
@@ -186,12 +184,12 @@ hour and come away believing you live in different countries.
 
 ## How to Spot Bias and Evaluate a Source
 
-Before you trust — or share — a political story, run it through the
+Before you trust or share a political story, run it through the
 checklist below.
 
 1. **Check who published it.** Look at the outlet's About page and its
    placement on the AllSides or Ad Fontes Media Bias Chart. Knowing an
-   outlet's lean doesn't disqualify it — it just tells you what to watch
+   outlet's lean doesn't disqualify it. It just tells you what to watch
    for.
 2. **Separate news from opinion.** Many publications run both. Look at the
    page label or the section URL ("/opinion/", "/commentary/"). Opinion
@@ -200,7 +198,7 @@ checklist below.
    links to the original document, study, or video. "Sources say" with no
    names is a warning sign.
 4. **Watch for loaded language.** Words like *slammed*, *destroyed*,
-   *crisis*, *radical*, or *common-sense* aren't neutral — they tell you
+   *crisis*, *radical*, or *common-sense* aren't neutral. They tell you
    how the writer wants you to feel before you've evaluated the facts.
 5. **Notice what's missing.** Whose perspective isn't represented? What
    counter-evidence isn't acknowledged? Bias by omission is the hardest
@@ -224,7 +222,7 @@ literacy isn't cynicism; it's a habit. The habit of pausing before you
 react, of asking who made this and what they want from you, of noticing the
 word choice and the missing context, of cross-checking before you share.
 Once that habit is in place, the same headline that used to make you
-furious or thrilled becomes a piece of evidence you weigh — not an
+furious or thrilled becomes a piece of evidence you weigh, not an
 instruction you follow. The outlets and the algorithms aren't going to stop
 trying to shape your vote. They don't have to. A vote you arrived at by
 your own reasoning, with your eyes open, is worth more than any number of
@@ -238,4 +236,4 @@ election is yours. Make the reasoning yours too.
 [Ad Fontes Media Bias Chart](https://adfontesmedia.com/interactive-media-bias-chart/),
 [Ground News](https://ground.news),
 [News Literacy Project](https://newslit.org),
-[Pew Research — Journalism & Media](https://www.pewresearch.org/journalism/).</small>
+[Pew Research: Journalism & Media](https://www.pewresearch.org/journalism/).</small>
