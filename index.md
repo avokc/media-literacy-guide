@@ -5,22 +5,21 @@ title: A Media Literacy Guide
 
 ## Introduction
 
-Where did you last hear something about a politician? A TikTok, an Instagram
-reel, a YouTube short, a podcast clip a friend sent in a group chat? For
-most people voting for the first time, the answer is somewhere on a phone —
-and that's exactly the problem this guide is trying to help with. The same
-device you use for entertainment is also where you form most of your
-opinions about who should run the country, and the apps in between you and
-the news weren't built to inform you. They were built to keep you scrolling.
-This guide is about media literacy: the habit of reading, watching, and
-scrolling political news without letting the platform or the outlet do your
+Where did you last hear something about a political topic? A TikTok, an Instagram
+reel, or maybe a group chat? For most people, the answer is somewhere on their phone
+and that's what this guide aims to address. The same device we use for entertainment 
+and games is also where we form most of our opinions on the issues of our day.
+The apps between you and the truth weren't built to inform you. They were
+built to keep you scrolling.
+
+This guide is about media literacy: the discipline of reading, watching, and
+scrolling political news without letting the app platform or the media outlet do your
 thinking for you. We'll start by defining what media and media literacy
-actually are and why they matter so much in politics. From there we'll look
+actually are and why they matter so much in politics. From there, we'll look
 at the specific ways media influence how people vote, compare how three
 major outlets covered the same week of news to see bias in action, walk
-through how each kind of medium — TV, radio, online, social — adds its own
-slant, and finish with a short checklist you can run any political post
-through before you trust it or pass it on.
+through how each type of medium adds its own slant, and finish with a 
+short checklist you can run any political post through before you trust it or pass it on.
 
 ---
 
