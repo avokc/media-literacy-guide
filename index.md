@@ -17,13 +17,13 @@ scrolling political news without letting the platform or the outlet do your
 thinking for you. We'll start by defining what media and media literacy
 actually are and why they matter so much in politics. From there, we'll look
 at the specific ways media influence how people vote, compare how three
-major outlets covered the same week of news to see bias in action, walk
+major outlets covered the same event to see bias in action, walk
 through how each type of medium adds its own slant, and finish with a 
 short checklist you can run any political post through before you trust it or pass it on.
 
 ---
 
-## What is media and media literacy?
+## What are media and media literacy?
 
 **Media** is the plural of *medium*, a channel that carries
 information from a source to a consumer. This includes traditional channels like
@@ -99,7 +99,7 @@ event from three outlets.
 
 Consider the **Los Angeles ICE protests of June 2025**. After
 immigration raids, thousands of people took to the streets.
-The protests were overwhelmingly peaceful, but in some areas there real damage
+The protests were overwhelmingly peaceful, but in some areas real damage
 occurred. Burned vehicles, broken storefronts, and clashes with police.
 The Trump administration deployed the California National Guard while the
 governor objected. Here's how the events were covered by three different outlets.
@@ -142,7 +142,7 @@ ninety-second segment, which forces oversimplification. The "breaking
 news" format manufactures urgency even on slow news days. Cable panels
 are built around argument because conflict holds viewers, so reasonable
 middle-ground gets edited out in favor of two people shouting past
-each other. Watch the chyron (the text bar at the bottom of the screen),
+each other. Watch the chyron (the text bar at the bottom of the screen);
 it often editorializes a story before the anchor even speaks.
 
 ### Radio and Podcasts
@@ -173,7 +173,7 @@ which usually means outrage. Posts are stripped of context. A five-second
 clip of a politician can travel further than the full speech itself.
 Anyone can publish anything, so credentials and sourcing are invisible by default.
 Influencers blur the line between entertainment and reporting, sometimes
-without disclosing sponsorships or political affiliations and because the
+without disclosing sponsorships or political affiliations. And because the
 feed is personalized, you and a classmate can scroll the same app for an
 hour and come away believing you live in different worlds.
 
