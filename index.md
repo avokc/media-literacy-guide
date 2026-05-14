@@ -117,7 +117,7 @@ Gavin Newsom objected, calling the deployment unlawful. Here's how the events
 were covered by three different outlets.
 
 <figure>
-<img src="https://upload.wikimedia.org/wikipedia/commons/thumb/8/8c/CA_Guard_and_protestors%2C_June_2025.jpg/800px-CA_Guard_and_protestors%2C_June_2025.jpg" alt="A line of California National Guard members in uniform stands in formation facing a group of protestors on a Los Angeles street, June 9, 2025.">
+<img src="https://upload.wikimedia.org/wikipedia/commons/thumb/8/8c/CA_Guard_and_protestors%2C_June_2025.jpg/960px-CA_Guard_and_protestors%2C_June_2025.jpg" alt="A line of California National Guard members in uniform stands in formation facing a group of protestors on a Los Angeles street, June 9, 2025.">
 <figcaption>California National Guard members face protestors in Los Angeles, June 9, 2025. Photo: U.S. Northern Command, public domain.<sup id="ref6"><a href="#cite6">6</a></sup></figcaption>
 </figure>
 
