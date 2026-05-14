@@ -49,7 +49,7 @@ they make it*, *what do they want me to feel*, and *what didn't they tell me*.
 Media literacy isn't about being cynical or assuming everyone is lying. It's
 about being an active consumer, not a passive one.
 
-### Why does it matter for first-time voters? a
+### Why does it matter for first-time voters?
 
 Few voters actually meet candidates in person. Very few voters read bills.
 Most of the time, they simply rely on media to cover politics and to help
