@@ -10,3 +10,104 @@
 .site-footer {
   display: none;
 }
+
+/* Parallax-style hero. The background stays fixed in the viewport while
+   the title scrolls, giving a subtle depth effect. */
+.page-header {
+  background-image: linear-gradient(135deg, #0d1421 0%, #1a3a52 45%, #2d4a6b 100%);
+  background-attachment: fixed;
+  background-size: cover;
+  min-height: 42vh;
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+}
+
+/* Page-wide soft background that drifts as content scrolls over it. */
+body {
+  background-image:
+    radial-gradient(ellipse at 15% 20%, rgba(21, 120, 120, 0.08) 0%, transparent 55%),
+    radial-gradient(ellipse at 85% 80%, rgba(45, 74, 107, 0.08) 0%, transparent 55%);
+  background-attachment: fixed;
+  background-size: cover;
+}
+
+.main-content {
+  background: rgba(255, 255, 255, 0.92);
+}
+
+/* Pull quote. */
+.pullquote {
+  font-family: Georgia, "Times New Roman", serif;
+  font-size: 1.35em;
+  font-style: italic;
+  line-height: 1.45;
+  border-left: 4px solid #157878;
+  padding: 0.6em 0 0.6em 1.2em;
+  margin: 2em 0;
+  color: #1a3a52;
+}
+
+/* Figures and visual aids. */
+figure {
+  margin: 2em 0;
+  text-align: center;
+}
+
+figure img {
+  max-width: 100%;
+  height: auto;
+  border-radius: 4px;
+  box-shadow: 0 3px 14px rgba(0, 0, 0, 0.18);
+}
+
+figcaption {
+  font-size: 0.85em;
+  color: #606c71;
+  margin-top: 0.6em;
+  font-style: italic;
+}
+
+/* Table of contents box. */
+.toc {
+  background: #f5f7f9;
+  border-left: 4px solid #157878;
+  padding: 1em 1.4em;
+  margin: 1.5em 0 2em;
+  border-radius: 0 4px 4px 0;
+}
+
+.toc-title {
+  font-weight: bold;
+  margin-bottom: 0.4em;
+  text-transform: uppercase;
+  font-size: 0.85em;
+  letter-spacing: 0.06em;
+  color: #157878;
+  display: block;
+}
+
+.toc ol {
+  margin: 0;
+  padding-left: 1.4em;
+}
+
+.toc li {
+  margin: 0.2em 0;
+}
+
+/* Works cited list. */
+.works-cited ol {
+  padding-left: 1.4em;
+}
+
+.works-cited li {
+  margin-bottom: 0.7em;
+  font-size: 0.95em;
+}
+
+/* Superscript references. */
+sup a {
+  text-decoration: none;
+  font-weight: bold;
+}
